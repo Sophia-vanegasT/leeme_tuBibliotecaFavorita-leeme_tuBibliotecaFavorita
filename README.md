@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Léeme – Tu Biblioteca Favorita
 
 Léeme is a mobile application designed to help users organize, classify, and visualize their personal book collections. The app aims to encourage reading habits, avoid procrastination, and assist users in achieving their reading goals.
@@ -46,3 +47,7 @@ Contributions are welcome! Please feel free to submit a pull request or open an 
 ## License
 
 This project is licensed under the MIT License. See the LICENSE file for details.
+=======
+# leeme_tuBibliotecaFavorita-leeme_tuBibliotecaFavorita
+Proyecto final
+>>>>>>> 477884ae3467e21aa61948c9a92b45bcb2070759
